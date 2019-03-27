@@ -10,10 +10,10 @@
 <li> A function, it could be a redux dispatch or a setState handler </li>
 </ul>
 
-###Important
+### Important
 
-the component is Dummy. It not change the state of your app.
-
+#### This component is Dummy. It will not change the state of your app.</p>
+#### the function actionToDispatch it is a callback. it gives the clicked language
 
 
 ### Example
@@ -31,7 +31,7 @@ the component is Dummy. It not change the state of your app.
 ````
 
 
-## the function actionToDispatch it is a callback. it gives the clicked language
+
 
 
 
