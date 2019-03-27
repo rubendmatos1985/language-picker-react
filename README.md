@@ -39,6 +39,7 @@
  <li> Spanish </li>
  <li> English </li>
  <li> Portuguese </li>
+ <li> French </li>
 </ul>
 
 
