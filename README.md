@@ -30,7 +30,16 @@
 
 ````
 
+## Support
 
+#### It supports this languages
+<ul>
+ <li> German </li>
+ <li> Italien </li>
+ <li> Spanish </li>
+ <li> English </li>
+ <li> Portuguese </li>
+</ul>
 
 
 
